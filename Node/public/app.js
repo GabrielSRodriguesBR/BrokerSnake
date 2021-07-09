@@ -22,7 +22,6 @@ const StartBroker = () => {
         Console("conectado!");
         console.log("conectado!");
         client.subscribe(topic);
-        //StartGame();
 
     }
 
